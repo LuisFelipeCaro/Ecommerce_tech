@@ -36,7 +36,7 @@ Por consiguiente, se trabajarán paletas monocromáticas, donde los colores insi
 |<p></p><p>**#fcc101**</p>|<p></p><p>**#082742**</p>|
 |<p></p><p>El amarillo significa creatividad, inteligencia, diversión, calidez, belleza, lealtad, riqueza, sabiduría y facilidad de expresión.</p><p></p><p>Dentro del círculo cromático el color naranja tiene en el azul su color complementario, y asimismo simboliza lo impetuoso, la inquietud y lo material. Por esta razón, también se tomará como referencia su valor cromático en la mezcla de colores.</p><p>https://coloress.org/significado-de-los-colores/</p><p></p>|<p></p><p>Los tonos azules suelen asociarse con la seriedad y la limpieza. Transmiten confianza, por eso son comúnmente utilizados por bancos, aseguradoras y compañías tecnológicas</p><p></p><p>https://imborrable.com/blog/psicologia-del-color/</p>|
 
-***Tipografía-***por su legibilidad, contraste, grosor y versatilidad; la combinación tipográfica que elegida para el diseño del portal e-commerce se basa en tipografías San Serif (Roboto, Monserrat y Conthrax)
+***Tipografía-*** por su legibilidad, contraste, grosor y versatilidad; la combinación tipográfica que elegida para el diseño del portal e-commerce se basa en tipografías San Serif (Roboto, Monserrat y Conthrax)
 
 |**Conthrax**|**Roboto**|**Monserrat**|
 | :-: | :-: | :-: |
@@ -46,5 +46,5 @@ Por consiguiente, se trabajarán paletas monocromáticas, donde los colores insi
 
 ***Foto y retoque-*** tomar fotografías propias o tomar recursos libres web, es el punto de partida para el retoque y diagramación, de las imágenes o ilustraciones que requiera el portal para mostrar un tono propio de comunicación.
 
-***Icono grafía-***permite identificar lugares y objetos según la oferta de temporada que se proponga.* 
+***Icono grafía-*** permite identificar lugares y objetos según la oferta de temporada que se proponga.* 
 
